@@ -1,1 +1,23 @@
-
+[
+    {
+        "email": "aaaaaaaa@admin",
+        "token": "admin@admin",
+        "date_expiration": "2024-12-05",
+        "date_created": "2024-11-05",
+        "browser_id": [
+            "7795f461748af1bb8af2f1faa00db3c7"
+        ],
+        "access": "ptsp"
+    },
+    {
+        "email": "aziz@admin",
+        "token": "admin@admin",
+        "date_expiration": "2024-12-25",
+        "date_created": "2024-11-25",
+        "browser_id": [
+            "ce4904c9cab635383dd093b3e86e8893",
+            "54485daf69b315bb99d46c8a3854a203"
+        ],
+        "access": "sp"
+    }
+]
